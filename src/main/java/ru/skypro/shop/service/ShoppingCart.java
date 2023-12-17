@@ -15,6 +15,7 @@ public class ShoppingCart {
         return this.goods;
     }
     public List<Integer> get() {
+
         return goods;
     }
 }
